@@ -1,0 +1,40 @@
+@media screen {width:200px;
+	height:200px;
+	
+}
+body{background-color:silver;}
+h1{color:#ff0000;}
+header{color:#ab1232;}
+footer{color:#008000;font-size:30px;bottom:0;position:fixed;}
+nav{color:#ffcocB;font-size:30px;}
+address{color:purple;}
+div{
+width:auto;
+text-align:center;
+padding:15px;
+}
+
+img{
+ width: 200px;
+height: 200px;
+}
+.block{
+	float:right;
+	width:33.3%;
+	padding-bottom=6px;
+	pox-sizing:border-box;
+	border-color:red 20px dotted;
+	
+}
+a:hover{
+	color:red;
+}
+a:active{
+	color:green;
+}
+a:visited{
+	color:yellow;
+}
+	
+
+	
